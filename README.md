@@ -22,3 +22,5 @@ There are many interesting categories to view images from:
 * Arts & Culture
 
 Find the images that will make your day better and colorful.
+
+If you like doggies - go serach for them!
