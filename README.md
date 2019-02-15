@@ -1,6 +1,6 @@
 # unsplash-photo-gallery
 
-## the best gallery!
+## The best gallery!
 
 Photo gallery that uses unsplash photos for data source.
 
