@@ -11,10 +11,14 @@ import java.util.List;
 @RequestMapping("/api/photos")
 public class PhotosRestController {
     private List<String> photoUrls = new ArrayList<String>() {};
+    private String galleryTitle;
 
     @GetMapping
     public List<String> getPhotoUrls() {
         return new ArrayList<>(photoUrls);
     }
 
+    public void setGalleryTitle(String galleryTitle) {
+        this.galleryTitle = galleryTitle;
+    }
 }
