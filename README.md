@@ -22,6 +22,8 @@ There are many interesting categories to view images from:
 * Health
 * Arts & Culture
 
+If you like doggies - go search for them!
+
 Find the images that will make your day better and colorful.
 
 
