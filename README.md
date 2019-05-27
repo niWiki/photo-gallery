@@ -27,8 +27,6 @@ Find the images that will make your day better and colorful.
 
 If you like doggies - go search for them!
 
-If you like rabbits - go search for them!
-
 You have pre-defined searches with most favourite images.
 
 
