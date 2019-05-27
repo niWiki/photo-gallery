@@ -25,8 +25,6 @@ There are many interesting categories to view images from:
 
 Find the images that will make your day better and colorful.
 
-If you like doggies - go search for them!
-
 You have pre-defined searches with most favourite images.
 
 
