@@ -21,8 +21,6 @@ There are many interesting categories to view images from:
 * People
 * Health
 * Arts & Culture
-* Restaurants
-* Furniture 
 
 If you like doggies - go search for them!
 
