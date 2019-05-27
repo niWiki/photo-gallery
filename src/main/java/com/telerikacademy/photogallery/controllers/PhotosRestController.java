@@ -17,8 +17,4 @@ public class PhotosRestController {
     public List<String> getPhotoUrls() {
         return new ArrayList<>(photoUrls);
     }
-
-    public void setGalleryTitle(String galleryTitle) {
-        this.galleryTitle = galleryTitle;
-    }
 }
