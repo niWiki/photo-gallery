@@ -26,6 +26,4 @@ There are many interesting categories to view images from:
 
 Find the images that will make your day better and colorful.
 
-You have pre-defined searches with most favourite images.
-
 
