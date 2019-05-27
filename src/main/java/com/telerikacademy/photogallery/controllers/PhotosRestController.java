@@ -10,11 +10,5 @@ import java.util.List;
 @RestController
 @RequestMapping("/api/photos")
 public class PhotosRestController {
-    private List<String> photoUrls = new ArrayList<String>() {};
     private String galleryTitle;
-
-    @GetMapping
-    public List<String> getPhotoUrls() {
-        return new ArrayList<>(photoUrls);
-    }
 }
