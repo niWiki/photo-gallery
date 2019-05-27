@@ -2,7 +2,7 @@
 
 ## The best gallery!
 
-Photo gallery that uses unsplash photos for data source.
+Photo gallery that uses [unsplash](https://unsplash.com/) photos for data source.
 
 There are many interesting categories to view images from:
 
