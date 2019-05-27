@@ -19,8 +19,6 @@ There are many interesting categories to view images from:
 * Spirituality
 * Experimental
 * People
-* Health
-* Arts & Culture
 
 If you like doggies - go search for them!
 
