@@ -24,6 +24,8 @@ There are many interesting categories to view images from:
 * Restaurants
 * Furniture 
 
+If you like doggies - go search for them!
+
 Find the images that will make your day better and colorful.
 
 
