@@ -22,6 +22,7 @@ There are many interesting categories to view images from:
 * People
 * Health
 * Arts & Culture
+* Arts & Culture
 
 Find the images that will make your day better and colorful.
 
