@@ -29,7 +29,7 @@ If you like doggies - go search for them!
 
 If you like rabbits - go search for them!
 
-If you like cats - go search for them!
+If you like little pussy cats - go search for them!
 
 You have pre-defined searches with most favourite images.
 
