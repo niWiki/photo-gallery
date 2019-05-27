@@ -2,7 +2,7 @@
 
 ## The best gallery!
 
-Custom photo gallery that uses [Unsplashs Web API](https://unsplash.com/) photos for data source.
+Photo gallery that uses [Unsplashs Web API](https://unsplash.com/) photos for data source.
 
 There are many interesting categories to view images from:
 
