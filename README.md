@@ -6,7 +6,6 @@ Photo gallery that uses [unsplash open web api](https://unsplash.com/) photos fo
 
 There are many interesting categories to view images from:
 
-* Editorial
 * Wallpapers
 * Textures & Patterns
 * Nature
