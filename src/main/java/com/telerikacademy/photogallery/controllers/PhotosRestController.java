@@ -20,6 +20,7 @@ public class PhotosRestController {
     @GetMapping
     public List<String> getPhotoUrls() {
         int b = 10;
+        b = b+10;
         return new ArrayList<>(photoUrls);
     }
 }
