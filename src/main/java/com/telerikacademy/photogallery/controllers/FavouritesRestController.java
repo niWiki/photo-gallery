@@ -14,6 +14,7 @@ public class FavouritesRestController {
 
     @GetMapping
     public List<String> getPhotoUrls() {
+        int b = 100;
         return new ArrayList<>(photoUrls);
     }
 }
