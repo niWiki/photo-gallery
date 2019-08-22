@@ -14,7 +14,12 @@ public class FavouritesRestController {
 
     @GetMapping
     public List<String> getPhotoUrls() {
+        int b = calc(1,2);
         return new ArrayList<>(photoUrls);
         //TODO test
+    }
+
+    private int calc(int a, int b){
+        return a + b;
     }
 }
