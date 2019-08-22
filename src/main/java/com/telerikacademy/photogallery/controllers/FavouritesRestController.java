@@ -15,5 +15,6 @@ public class FavouritesRestController {
     @GetMapping
     public List<String> getPhotoUrls() {
         return new ArrayList<>(photoUrls);
+        //TODO test
     }
 }
