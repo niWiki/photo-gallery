@@ -11,11 +11,12 @@ import java.util.List;
 @RequestMapping("/api/favourites")
 public class FavouritesRestController {
     List<String> photoUrls = new ArrayList<>();
-    int pages = 10;
+    int count;
 
     @GetMapping
     public List<String> getPhotoUrls() {
-        int b = calc(1,2);
+        int pages = calc(1,2);
+        count = pages * 10;
         return new ArrayList<>(photoUrls);
     }
 
