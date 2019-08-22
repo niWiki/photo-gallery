@@ -17,4 +17,8 @@ public class FavouritesRestController {
         int b = calc(1,2);
         return new ArrayList<>(photoUrls);
     }
+
+    private int calc(int a, int b){
+        return a + b;
+    }
 }
