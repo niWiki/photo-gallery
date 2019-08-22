@@ -11,6 +11,7 @@ import java.util.List;
 @RequestMapping("/api/favourites")
 public class FavouritesRestController {
     List<String> photoUrls = new ArrayList<>();
+    int pages = 10;
 
     @GetMapping
     public List<String> getPhotoUrls() {
