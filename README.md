@@ -6,9 +6,6 @@ Photo gallery that uses [Unsplashs Web API](https://unsplash.com/) photos for da
 
 There are many interesting categories to view images from:
 
-* Wallpapers
-* Textures & Patterns
-* Nature
 * Current Events
 * Architecture
 * Business & Work
