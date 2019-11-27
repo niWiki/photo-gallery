@@ -10,5 +10,9 @@ public class PhotogalleryApplication {
         SpringApplication.run(PhotogalleryApplication.class, args);
     }
 
+    private void bla(){
+        
+    }
+
 }
 
