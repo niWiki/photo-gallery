@@ -26,7 +26,7 @@ public class PhotosRestController {
 
     @PostMapping
     public void bla1(){
-
+int b = 10;
     }
 
     @PutMapping
