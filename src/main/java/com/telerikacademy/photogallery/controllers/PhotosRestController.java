@@ -1,6 +1,7 @@
 package com.telerikacademy.photogallery.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -22,5 +23,10 @@ public class PhotosRestController {
         int b = 10;
         b = b+10;
         return new ArrayList<>(photoUrls);
+    }
+
+    @PostMapping
+    public void bla1(){
+        
     }
 }

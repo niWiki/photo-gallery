@@ -11,7 +11,7 @@ public class PhotogalleryApplication {
     }
 
     private void bla(){
-        
+
     }
 
 }
