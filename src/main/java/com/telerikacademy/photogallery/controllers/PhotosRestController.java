@@ -22,11 +22,13 @@ public class PhotosRestController {
     public List<String> getPhotoUrls() {
         int b = 10;
         b = b+10;
+        b = 10;
+        b = b+10;
         return new ArrayList<>(photoUrls);
     }
 
     @PostMapping
     public void bla1(){
-        
+
     }
 }
