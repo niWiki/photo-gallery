@@ -10,6 +10,7 @@ There are many interesting categories to view images from:
 * Concerts
 * Current Events
 * Architecture
+* Buildings
 * Business & Work
 * Animals
 * Travel
