@@ -7,6 +7,7 @@ Photo gallery that uses [Unsplashs Web API](https://unsplash.com/) photos for da
 There are many interesting categories to view images from:
 
 * Food
+* Happenings
 * Concerts
 * Current Events
 * Architecture
