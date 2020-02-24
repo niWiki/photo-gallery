@@ -17,6 +17,7 @@ There are many interesting categories to view images from:
 * Spirituality
 * Experimental
 * People
+* Fruit
 * Vegetables
 * Animals
 
