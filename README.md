@@ -11,6 +11,7 @@ There are many interesting categories to view images from:
 * Concerts
 * Current Events
 * Architecture
+* Fountains
 * Buildings
 * Business & Work
 * Animals
