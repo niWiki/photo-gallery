@@ -23,6 +23,7 @@ There are many interesting categories to view images from:
 * People
 * Fruit
 * Vegetables
+* Dogs
 * Animals
 
 If you like doggies - go search for them!
